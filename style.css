@@ -53,5 +53,6 @@ body {
     margin: 25px 250px;
 }
 .lesslink {
-    text-decoration: none;
+    color: #E1AA7D;
+    font-weight: 900;
 }
